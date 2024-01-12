@@ -1,0 +1,32 @@
+C:\Users\t.academy\source\repos\Game\Game\bin\Debug\net5.0\Game.exe
+C:\Users\t.academy\source\repos\Game\Game\bin\Debug\net5.0\Game.deps.json
+C:\Users\t.academy\source\repos\Game\Game\bin\Debug\net5.0\Game.runtimeconfig.json
+C:\Users\t.academy\source\repos\Game\Game\bin\Debug\net5.0\Game.runtimeconfig.dev.json
+C:\Users\t.academy\source\repos\Game\Game\bin\Debug\net5.0\Game.dll
+C:\Users\t.academy\source\repos\Game\Game\bin\Debug\net5.0\Game.pdb
+C:\Users\t.academy\source\repos\Game\Game\obj\Debug\net5.0\Game.csproj.AssemblyReference.cache
+C:\Users\t.academy\source\repos\Game\Game\obj\Debug\net5.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t.academy\source\repos\Game\Game\obj\Debug\net5.0\Game.AssemblyInfoInputs.cache
+C:\Users\t.academy\source\repos\Game\Game\obj\Debug\net5.0\Game.AssemblyInfo.cs
+C:\Users\t.academy\source\repos\Game\Game\obj\Debug\net5.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\t.academy\source\repos\Game\Game\obj\Debug\net5.0\Game.dll
+C:\Users\t.academy\source\repos\Game\Game\obj\Debug\net5.0\refint\Game.dll
+C:\Users\t.academy\source\repos\Game\Game\obj\Debug\net5.0\Game.pdb
+C:\Users\t.academy\source\repos\Game\Game\obj\Debug\net5.0\Game.genruntimeconfig.cache
+C:\Users\t.academy\source\repos\Game\Game\obj\Debug\net5.0\ref\Game.dll
+C:\Users\zahra\source\repos\oop projects\Game\Game\bin\Debug\net5.0\Game.exe
+C:\Users\zahra\source\repos\oop projects\Game\Game\bin\Debug\net5.0\Game.deps.json
+C:\Users\zahra\source\repos\oop projects\Game\Game\bin\Debug\net5.0\Game.runtimeconfig.json
+C:\Users\zahra\source\repos\oop projects\Game\Game\bin\Debug\net5.0\Game.runtimeconfig.dev.json
+C:\Users\zahra\source\repos\oop projects\Game\Game\bin\Debug\net5.0\Game.dll
+C:\Users\zahra\source\repos\oop projects\Game\Game\bin\Debug\net5.0\ref\Game.dll
+C:\Users\zahra\source\repos\oop projects\Game\Game\bin\Debug\net5.0\Game.pdb
+C:\Users\zahra\source\repos\oop projects\Game\Game\obj\Debug\net5.0\Game.csproj.AssemblyReference.cache
+C:\Users\zahra\source\repos\oop projects\Game\Game\obj\Debug\net5.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahra\source\repos\oop projects\Game\Game\obj\Debug\net5.0\Game.AssemblyInfoInputs.cache
+C:\Users\zahra\source\repos\oop projects\Game\Game\obj\Debug\net5.0\Game.AssemblyInfo.cs
+C:\Users\zahra\source\repos\oop projects\Game\Game\obj\Debug\net5.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\zahra\source\repos\oop projects\Game\Game\obj\Debug\net5.0\Game.dll
+C:\Users\zahra\source\repos\oop projects\Game\Game\obj\Debug\net5.0\ref\Game.dll
+C:\Users\zahra\source\repos\oop projects\Game\Game\obj\Debug\net5.0\Game.pdb
+C:\Users\zahra\source\repos\oop projects\Game\Game\obj\Debug\net5.0\Game.genruntimeconfig.cache
